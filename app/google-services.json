@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "127311703526",
+    "firebase_url": "https://ghurao-a-tourmate.firebaseio.com",
+    "project_id": "ghurao-a-tourmate",
+    "storage_bucket": "ghurao-a-tourmate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127311703526:android:4a1b464b768ae9d2",
+        "android_client_info": {
+          "package_name": "com.bitleet.saraf.ghurao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127311703526-891hb953gaclf4srfp68r3u5bgffhf84.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bitleet.saraf.ghurao",
+            "certificate_hash": "ad0d1a56926d33afa0c376b623f3cd9883c749e9"
+          }
+        },
+        {
+          "client_id": "127311703526-2e0rmoh2su0qgh30pjrtjr0kvlv8ld13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9HYJ78DmwxTVKqa69-C6vMPOS4eKGto0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127311703526-2e0rmoh2su0qgh30pjrtjr0kvlv8ld13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
